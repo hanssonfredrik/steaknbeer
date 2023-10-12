@@ -2,11 +2,12 @@
 
 Steak 'n beer is a site for steak and beer lovers.
 
+Watch out the demo site: [Demo](https://hanssonfredrik.github.io/steaknbeer/)
 
 ## Usage
 
 ```git
-git wait for beer
+npm run wait for beer
 ```
 
 ## Contributing
